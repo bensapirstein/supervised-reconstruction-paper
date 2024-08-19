@@ -11,6 +11,8 @@ import json
 from functools import partial
 from concurrent.futures import ThreadPoolExecutor
 
+from CogDetect.alphafold2.alphafold2_pytorch.utils import download_pdb
+
 align_psf = partial(
         transform_alignment, align=True, position=True, prosody=True, startend=True)
 align_ps = partial(
@@ -27,6 +29,9 @@ align_f = partial(
         transform_alignment, align=True, position=False, prosody=False, startend=True)
 align = partial(
         transform_alignment, align=True, position=False, prosody=False, startend=False)
+
+multi_threading = True
+download_results = True
 
 if len(argv) >= 2:
     if argv[1] == "svm":
@@ -91,10 +96,24 @@ def analyze_dataset_method(prop, ds, proto, i, meth_name, meth):
 
 if __name__ == "__main__":
     with ThreadPoolExecutor() as executor:
-        for prop in proportions:
-            print("[i] analyzing {0} split".format(prop))
-            for ds, proto in datasets:
-                print("[i] analyzing {0}".format(ds))
+        for ds, proto in datasets:
+            print("[i] analyzing {0}".format(ds))
+            for prop in proportions:
+                print("[i] analyzing {0} split".format(prop))
                 for i in range(RUNS):
                     for meth_name, meth in methods:
-                        executor.submit(analyze_dataset_method, prop, ds, proto, i, meth_name, meth)
+                        if multi_threading:
+                            executor.submit(analyze_dataset_method, prop, ds, proto, i, meth_name, meth)
+                        else:
+                            analyze_dataset_method(prop, ds, proto, i, meth_name, meth)
+            # zip the resutls for this language and download (google colab)
+            # located under results/
+            if download_results:
+                print("[i] downloading results for {0}".format(proto))
+                from google.colab import files
+                import shutil
+                shutil.make_archive(proto, 'zip', "results")
+                files.download(proto+".zip")
+
+
+
