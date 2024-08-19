@@ -11,8 +11,6 @@ import json
 from functools import partial
 from concurrent.futures import ThreadPoolExecutor
 
-from CogDetect.alphafold2.alphafold2_pytorch.utils import download_pdb
-
 align_psf = partial(
         transform_alignment, align=True, position=True, prosody=True, startend=True)
 align_ps = partial(
