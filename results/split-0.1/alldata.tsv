@@ -1,0 +1,16 @@
+svm	PosStrIni	0.7213	0.1669	0.8037
+svm	PosStr	0.7220	0.1667	0.8032
+svm	PosIni	0.7308	0.1675	0.8019
+svm	StrIni	0.7331	0.1683	0.8016
+svm	Pos	0.7290	0.1670	0.8035
+svm	Str	0.7395	0.1690	0.8012
+svm	Ini	0.7541	0.1713	0.7988
+svm	none	0.7630	0.1733	0.7963
+corpar	PosStrIni	0.0000	0.0000	0.0000
+corpar	PosStr	0.0000	0.0000	0.0000
+corpar	PosIni	0.0000	0.0000	0.0000
+corpar	StrIni	0.0000	0.0000	0.0000
+corpar	Pos	0.0000	0.0000	0.0000
+corpar	Str	0.0000	0.0000	0.0000
+corpar	Ini	0.0000	0.0000	0.0000
+corpar	none	0.0000	0.0000	0.0000

@@ -1,0 +1,635 @@
+ID	DOCULECT	CONCEPT	FORM	TOKENS	ALIGNMENT	COGID
+413	Kayah	10	lɔ³³	l ɔ ³³	l ɔ ³³	10
+414	Kayan	10	lɔʔ³³	l ɔ ʔ ³³	l ɔ ʔ ³³	10
+415	Kayaw	10	lə³³	l ə ³³	l ə ³³	10
+416	NorthernPao	10	loʔ⁴⁵	l o ʔ ⁴⁵	l o ʔ ⁴⁵	10
+417	NorthernPwo	10	lauʔ²¹	l au ʔ ²¹	l au ʔ ²¹	10
+418	NorthernSgaw	10	luʔ²¹	l u ʔ ²¹	l u ʔ ²¹	10
+419	SouthernPao	10	luʔ⁴⁵	l u ʔ ⁴⁵	l u ʔ ⁴⁵	10
+420	SouthernPwo	10	lɔuʔ⁴⁵	l ɔu ʔ ⁴⁵	l ɔu ʔ ⁴⁵	10
+421	SouthernSgaw	10	lɔu¹¹	l ɔu ¹¹	l ɔu ¹¹	10
+422	ProtoKaren	10	loʔ̚⁵¹	l o ʔ̚ ⁵¹	l o ʔ̚ ⁵¹	10
+423	Kayah	1065	mɛ¹¹	m ɛ ¹¹	m ɛ ¹¹	1065
+424	Kayan	1065	maŋ¹¹	m a ŋ ¹¹	m a ŋ ¹¹	1065
+425	Kayaw	1065	mɔ¹¹	m ɔ ¹¹	m ɔ ¹¹	1065
+426	NorthernPao	1065	maŋ⁵³	m a ŋ ⁵³	m a ŋ ⁵³	1065
+427	NorthernPwo	1065	mɛ̃ɦ¹¹	m ɛ̃ ɦ ¹¹	m ɛ̃ ɦ ¹¹	1065
+428	SouthernPao	1065	maŋ⁵⁵	m a ŋ ⁵⁵	m a ŋ ⁵⁵	1065
+429	SouthernPwo	1065	mɔ̃³³	m ɔ̃ ³³	m ɔ̃ ³³	1065
+430	SouthernSgaw	1065	mɔ³¹	m ɔ ³¹	m ɔ ³¹	1065
+431	WesternBwe	1065	ma³³	m a ³³	m a ³³	1065
+432	ProtoKaren	1065	maŋ¹¹	m a ŋ ¹¹	m a ŋ ¹¹	1065
+57	Kayan	1195	cʰauʔ⁴⁵	cʰ au ʔ ⁴⁵	cʰ au ʔ ⁴⁵	1195
+58	Kayaw	1195	xɔ¹¹	x ɔ ¹¹	x ɔ ¹¹	1195
+59	NorthernPao	1195	sət²¹	s ə t ²¹	s ə t ²¹	1195
+60	NorthernPwo	1195	xoʔ²¹	x o ʔ ²¹	x o ʔ ²¹	1195
+61	NorthernSgaw	1195	xɔʔ⁴⁵	x ɔ ʔ ⁴⁵	x ɔ ʔ ⁴⁵	1195
+62	SouthernPao	1195	sɔt²¹	s ɔ t ²¹	s ɔ t ²¹	1195
+63	SouthernPwo	1195	xuʔ⁴⁵	x u ʔ ⁴⁵	x u ʔ ⁴⁵	1195
+64	SouthernSgaw	1195	xoʔ²¹	x o ʔ ²¹	x o ʔ ²¹	1195
+65	ProtoKaren	1195	kʰrɔt⁵¹	kʰ r ɔ t ⁵¹	kʰ r ɔ t ⁵¹	1195
+156	Kayah	1237	no³³	n o ³³	n o ³³	1237
+157	Kayaw	1237	nu³³	n u ³³	n u ³³	1237
+158	NorthernPwo	1237	naəʔ²¹	n aə ʔ ²¹	n aə ʔ ²¹	1237
+159	NorthernSgaw	1237	nɨʔ²¹	n ɨ ʔ ²¹	n ɨ ʔ ²¹	1237
+160	SouthernPao	1237	nəʔ⁴⁵	n ə ʔ ⁴⁵	n ə ʔ ⁴⁵	1237
+161	SouthernSgaw	1237	nəuɦ¹¹	n əu ɦ ¹¹	n əu ɦ ¹¹	1237
+162	WesternBwe	1237	nu¹¹	n u ¹¹	n u ¹¹	1237
+163	ProtoKaren	1237	nəʔ⁵¹	n ə ʔ ⁵¹	n ə ʔ ⁵¹	1237
+282	Kayah	14	tɛ¹¹	t ɛ ¹¹	t ɛ ¹¹	14
+283	NorthernPao	14	taʔ²¹	t a ʔ ²¹	t a ʔ ²¹	14
+284	NorthernSgaw	14	tə¹¹	t ə ¹¹	t ə ¹¹	14
+285	SouthernPao	14	ta¹¹	t a ¹¹	t a ¹¹	14
+286	ProtoKaren	14	təʔ̚⁰	t ə ʔ̚ ⁰	t ə ʔ̚ ⁰	14
+352	Kayah	1498	di¹¹	d i ¹¹	d i ¹¹	1498
+353	Kayan	1498	dai¹¹	d ai ¹¹	d ai ¹¹	1498
+354	Kayaw	1498	di¹¹	d i ¹¹	d i ¹¹	1498
+355	NorthernPao	1498	de⁵⁵	d e ⁵⁵	d e ⁵⁵	1498
+356	NorthernPwo	1498	di³³	d i ³³	d i ³³	1498
+357	NorthernSgaw	1498	de³¹	d e ³¹	d e ³¹	1498
+358	SouthernPao	1498	de³³	d e ³³	d e ³³	1498
+359	SouthernPwo	1498	di⁵⁵	d i ⁵⁵	d i ⁵⁵	1498
+360	SouthernSgaw	1498	de⁴⁵	d e ⁴⁵	d e ⁴⁵	1498
+361	WesternBwe	1498	ɗi³³	ɗ i ³³	ɗ i ³³	1498
+362	ProtoKaren	1498	ˀde¹¹	ˀd e ¹¹	ˀd e ¹¹	1498
+458	Kayah	1539	ʔa³³	ʔ a ³³	ʔ a ³³	1539
+459	Kayan	1539	ʔe⁵³	ʔ e ⁵³	ʔ e ⁵³	1539
+460	Kayaw	1539	ʔe⁵⁵	ʔ e ⁵⁵	ʔ e ⁵⁵	1539
+461	NorthernPao	1539	ʔeŋɦ³¹	ʔ e ŋ ɦ ³¹	ʔ e ŋ ɦ ³¹	1539
+462	NorthernPwo	1539	ʔãi⁵⁵	ʔ ãi ⁵⁵	ʔ ãi ⁵⁵	1539
+463	NorthernSgaw	1539	ʔe³³	ʔ e ³³	ʔ e ³³	1539
+464	SouthernPao	1539	ʔeŋɦ³¹	ʔ e ŋ ɦ ³¹	ʔ e ŋ ɦ ³¹	1539
+465	SouthernPwo	1539	ʔɛ̃iɦ³¹	ʔ ɛ̃i ɦ ³¹	ʔ ɛ̃i ɦ ³¹	1539
+466	SouthernSgaw	1539	ʔi⁵⁵	ʔ i ⁵⁵	ʔ i ⁵⁵	1539
+467	ProtoKaren	1539	ʔeŋ⁵⁵	ʔ e ŋ ⁵⁵	ʔ e ŋ ⁵⁵	1539
+1	Kayah	1588	lu¹¹	l u ¹¹	l u ¹¹	1588
+2	Kayan	1588	lau³³	l au ³³	l au ³³	1588
+3	Kayaw	1588	lu³³	l u ³³	l u ³³	1588
+4	NorthernPwo	1588	lu⁵⁵	l u ⁵⁵	l u ⁵⁵	1588
+5	NorthernSgaw	1588	lo³³	l o ³³	l o ³³	1588
+6	SouthernPao	1588	lo⁵³	l o ⁵³	l o ⁵³	1588
+7	SouthernPwo	1588	luɦ³¹	l u ɦ ³¹	l u ɦ ³¹	1588
+8	SouthernSgaw	1588	lu³³	l u ³³	l u ³³	1588
+9	ProtoKaren	1588	lo⁵⁵	l o ⁵⁵	l o ⁵⁵	1588
+567	Kayah	161	lo¹¹	l o ¹¹	l o ¹¹	161
+568	Kayaw	161	lu¹¹	l u ¹¹	l u ¹¹	161
+569	NorthernPao	161	lu⁵⁵	l u ⁵⁵	l u ⁵⁵	161
+570	NorthernPwo	161	lou³³	l ou ³³	l ou ³³	161
+571	NorthernSgaw	161	lɨɦ¹¹	l ɨ ɦ ¹¹	l ɨ ɦ ¹¹	161
+572	SouthernPao	161	lu³³	l u ³³	l u ³³	161
+573	SouthernPwo	161	lou⁵⁵	l ou ⁵⁵	l ou ⁵⁵	161
+574	SouthernSgaw	161	lɨ⁴⁵	l ɨ ⁴⁵	l ɨ ⁴⁵	161
+575	ProtoKaren	161	l̥ou¹¹	l̥ ou ¹¹	l̥ ou ¹¹	161
+506	Kayah	1611	kʰu⁵⁵	kʰ u ⁵⁵	kʰ u ⁵⁵	1611
+507	Kayaw	1611	kʰu¹¹	kʰ u ¹¹	kʰ u ¹¹	1611
+508	NorthernPwo	1611	kʰu³³	kʰ u ³³	kʰ u ³³	1611
+509	NorthernSgaw	1611	kʰu³¹	kʰ u ³¹	kʰ u ³¹	1611
+510	SouthernSgaw	1611	kʰu⁴⁵	kʰ u ⁴⁵	kʰ u ⁴⁵	1611
+511	WesternBwe	1611	kʰu⁵⁵	kʰ u ⁵⁵	kʰ u ⁵⁵	1611
+512	ProtoKaren	1611	kʰu¹¹	kʰ u ¹¹	kʰ u ¹¹	1611
+84	Kayah	1632	tu¹¹	t u ¹¹	t u ¹¹	1632
+85	Kayaw	1632	tu¹¹	t u ¹¹	t u ¹¹	1632
+86	NorthernPao	1632	tʰo⁵³	tʰ o ⁵³	tʰ o ⁵³	1632
+87	NorthernPwo	1632	tʰuɦ¹¹	tʰ u ɦ ¹¹	tʰ u ɦ ¹¹	1632
+88	NorthernSgaw	1632	toɦ¹¹	t o ɦ ¹¹	t o ɦ ¹¹	1632
+89	SouthernPao	1632	to⁵⁵	t o ⁵⁵	t o ⁵⁵	1632
+90	SouthernPwo	1632	tʰu³³	tʰ u ³³	tʰ u ³³	1632
+91	SouthernSgaw	1632	tu³¹	t u ³¹	t u ³¹	1632
+92	WesternBwe	1632	do³³	d o ³³	d o ³³	1632
+93	ProtoKaren	1632	do¹¹	d o ¹¹	d o ¹¹	1632
+484	Kayah	1708	so¹¹	s o ¹¹	s o ¹¹	1708
+485	Kayan	1708	θau¹¹	θ au ¹¹	θ au ¹¹	1708
+486	Kayaw	1708	so¹¹	s o ¹¹	s o ¹¹	1708
+487	NorthernPao	1708	sau⁵⁵	s au ⁵⁵	s au ⁵⁵	1708
+488	NorthernPwo	1708	ɕjɔ³³	ɕ j ɔ ³³	ɕ j ɔ ³³	1708
+489	NorthernSgaw	1708	ɕɣɔ³¹	ɕ ɣ ɔ ³¹	ɕ ɣ ɔ ³¹	1708
+490	SouthernPao	1708	ɕau³³	ɕ au ³³	ɕ au ³³	1708
+491	SouthernPwo	1708	θo⁵⁵	θ o ⁵⁵	θ o ⁵⁵	1708
+492	SouthernSgaw	1708	ɕɣɔ⁴⁵	ɕ ɣ ɔ ⁴⁵	ɕ ɣ ɔ ⁴⁵	1708
+493	WesternBwe	1708	θrɔ³³	θ r ɔ ³³	θ r ɔ ³³	1708
+494	ProtoKaren	1708	srɔ¹¹	s r ɔ ¹¹	s r ɔ ¹¹	1708
+66	Kayah	1720	kle¹¹	k l e ¹¹	k l e ¹¹	1720
+67	Kayan	1720	kaŋ¹¹	k a ŋ ¹¹	k a ŋ ¹¹	1720
+68	Kayaw	1720	kɔ¹¹	k ɔ ¹¹	k ɔ ¹¹	1720
+69	NorthernPwo	1720	kwãɦ¹¹	k w ã ɦ ¹¹	k w ã ɦ ¹¹	1720
+70	NorthernSgaw	1720	kɔ̃ɦ¹¹	k ɔ̃ ɦ ¹¹	k ɔ̃ ɦ ¹¹	1720
+71	SouthernPao	1720	kwam⁵⁵	k w a m ⁵⁵	k w a m ⁵⁵	1720
+72	SouthernPwo	1720	kʰwɔ̃³³	kʰ w ɔ̃ ³³	kʰ w ɔ̃ ³³	1720
+73	SouthernSgaw	1720	kɔ³¹	k ɔ ³¹	k ɔ ³¹	1720
+74	ProtoKaren	1720	glam¹¹	g l a m ¹¹	g l a m ¹¹	1720
+394	Kayah	1732	tɔ¹¹	t ɔ ¹¹	t ɔ ¹¹	1732
+395	Kayan	1732	təu¹¹	t əu ¹¹	t əu ¹¹	1732
+396	Kayaw	1732	tə¹¹	t ə ¹¹	t ə ¹¹	1732
+397	NorthernPao	1732	tʰoŋ⁵³	tʰ o ŋ ⁵³	tʰ o ŋ ⁵³	1732
+398	NorthernPwo	1732	tʰãuɦ¹¹	tʰ ãu ɦ ¹¹	tʰ ãu ɦ ¹¹	1732
+399	NorthernSgaw	1732	tə̃ɦ¹¹	t ə̃ ɦ ¹¹	t ə̃ ɦ ¹¹	1732
+400	SouthernPao	1732	toŋ⁵⁵	t o ŋ ⁵⁵	t o ŋ ⁵⁵	1732
+401	WesternBwe	1732	do³³	d o ³³	d o ³³	1732
+402	ProtoKaren	1732	doŋ¹¹	d o ŋ ¹¹	d o ŋ ¹¹	1732
+94	NorthernSgaw	1787	kə¹¹	k ə ¹¹	k ə ¹¹	1787
+95	SouthernSgaw	1787	kə¹¹	k ə ¹¹	k ə ¹¹	1787
+96	WesternBwe	1787	gə³³	g ə ³³	g ə ³³	1787
+97	ProtoKaren	1787	gə⁰	g ə ⁰	g ə ⁰	1787
+17	Kayah	1853	tʰe⁵⁵	tʰ e ⁵⁵	tʰ e ⁵⁵	1853
+18	Kayan	1853	tʰaʔ⁴⁵	tʰ a ʔ ⁴⁵	tʰ a ʔ ⁴⁵	1853
+19	Kayaw	1853	tʰɔ³³	tʰ ɔ ³³	tʰ ɔ ³³	1853
+20	NorthernPao	1853	tʰaʔ²¹	tʰ a ʔ ²¹	tʰ a ʔ ²¹	1853
+21	NorthernPwo	1853	tʰaʔ⁴⁵	tʰ a ʔ ⁴⁵	tʰ a ʔ ⁴⁵	1853
+22	NorthernSgaw	1853	tʰaʔ⁴⁵	tʰ a ʔ ⁴⁵	tʰ a ʔ ⁴⁵	1853
+23	SouthernPao	1853	tʰaʔ²¹	tʰ a ʔ ²¹	tʰ a ʔ ²¹	1853
+24	SouthernPwo	1853	tʰaʔ²¹	tʰ a ʔ ²¹	tʰ a ʔ ²¹	1853
+25	SouthernSgaw	1853	tʰaʔ²¹	tʰ a ʔ ²¹	tʰ a ʔ ²¹	1853
+26	WesternBwe	1853	tʰa³³	tʰ a ³³	tʰ a ³³	1853
+27	ProtoKaren	1853	tʰaʔ̚⁵¹	tʰ a ʔ̚ ⁵¹	tʰ a ʔ̚ ⁵¹	1853
+240	Kayah	1878	li¹¹	l i ¹¹	l i ¹¹	1878
+241	Kayan	1878	lai¹¹	l ai ¹¹	l ai ¹¹	1878
+242	Kayaw	1878	li¹¹	l i ¹¹	l i ¹¹	1878
+243	NorthernPao	1878	le⁵³	l e ⁵³	l e ⁵³	1878
+244	NorthernPwo	1878	liɦ¹¹	l i ɦ ¹¹	l i ɦ ¹¹	1878
+245	NorthernSgaw	1878	leɦ¹¹	l e ɦ ¹¹	l e ɦ ¹¹	1878
+246	SouthernPwo	1878	li³³	l i ³³	l i ³³	1878
+247	SouthernSgaw	1878	le³¹	l e ³¹	l e ³¹	1878
+248	WesternBwe	1878	li³³	l i ³³	l i ³³	1878
+249	ProtoKaren	1878	le¹¹	l e ¹¹	l e ¹¹	1878
+576	Kayah	1907	swe⁵⁵	s w e ⁵⁵	s w e ⁵⁵	1907
+577	Kayan	1907	θaʔ⁴⁵	θ a ʔ ⁴⁵	θ a ʔ ⁴⁵	1907
+578	Kayaw	1907	sɔ³³	s ɔ ³³	s ɔ ³³	1907
+579	NorthernPao	1907	waʔ²¹	w a ʔ ²¹	w a ʔ ²¹	1907
+580	NorthernPwo	1907	waʔ²¹	w a ʔ ²¹	w a ʔ ²¹	1907
+581	NorthernSgaw	1907	saʔ⁴⁵	s a ʔ ⁴⁵	s a ʔ ⁴⁵	1907
+582	SouthernPao	1907	waʔ²¹	w a ʔ ²¹	w a ʔ ²¹	1907
+583	SouthernPwo	1907	waʔ⁴⁵	w a ʔ ⁴⁵	w a ʔ ⁴⁵	1907
+584	SouthernSgaw	1907	saʔ²¹	s a ʔ ²¹	s a ʔ ²¹	1907
+585	ProtoKaren	1907	swaʔ̚⁵¹	s w a ʔ̚ ⁵¹	s w a ʔ̚ ⁵¹	1907
+550	Kayaw	1921	li³³	l i ³³	l i ³³	1921
+551	NorthernPwo	1921	lei⁵⁵	l ei ⁵⁵	l ei ⁵⁵	1921
+552	NorthernSgaw	1921	li³³	l i ³³	l i ³³	1921
+553	SouthernPwo	1921	leiɦ³¹	l ei ɦ ³¹	l ei ɦ ³¹	1921
+554	SouthernSgaw	1921	li³³	l i ³³	l i ³³	1921
+555	WesternBwe	1921	lɪ³³	l ɪ ³³	l ɪ ³³	1921
+556	ProtoKaren	1921	lei⁵⁵	l ei ⁵⁵	l ei ⁵⁵	1921
+75	Kayah	1959	pla³³	p l a ³³	p l a ³³	1959
+76	Kayaw	1959	ple³³	p l e ³³	p l e ³³	1959
+77	NorthernPao	1959	pʰliʔ²¹	pʰ l i ʔ ²¹	pʰ l i ʔ ²¹	1959
+78	NorthernPwo	1959	pʰlaiʔ²¹	pʰ l ai ʔ ²¹	pʰ l ai ʔ ²¹	1959
+79	NorthernSgaw	1959	pliʔ⁴⁵	p l i ʔ ⁴⁵	p l i ʔ ⁴⁵	1959
+80	SouthernPwo	1959	pʰlaiʔ⁴⁵	pʰ l ai ʔ ⁴⁵	pʰ l ai ʔ ⁴⁵	1959
+81	SouthernSgaw	1959	plaiɦ¹¹	p l ai ɦ ¹¹	p l ai ɦ ¹¹	1959
+82	WesternBwe	1959	bli³³	b l i ³³	b l i ³³	1959
+83	ProtoKaren	1959	bleʔ⁵¹	b l e ʔ ⁵¹	b l e ʔ ⁵¹	1959
+528	Kayah	21	tɔ¹¹	t ɔ ¹¹	t ɔ ¹¹	21
+529	Kayan	21	tə¹¹	t ə ¹¹	t ə ¹¹	21
+530	Kayaw	21	tə¹¹	t ə ¹¹	t ə ¹¹	21
+531	NorthernPao	21	tʰəŋ⁵³	tʰ ə ŋ ⁵³	tʰ ə ŋ ⁵³	21
+532	NorthernPwo	21	tʰãɦ¹¹	tʰ ã ɦ ¹¹	tʰ ã ɦ ¹¹	21
+533	NorthernSgaw	21	təɦ¹¹	t ə ɦ ¹¹	t ə ɦ ¹¹	21
+534	SouthernPao	21	təŋ⁵⁵	t ə ŋ ⁵⁵	t ə ŋ ⁵⁵	21
+535	SouthernPwo	21	tʰə̃ɨ̯³³	tʰ ə̃ɨ̯ ³³	tʰ ə̃ɨ̯ ³³	21
+536	SouthernSgaw	21	tə³¹	t ə ³¹	t ə ³¹	21
+537	WesternBwe	21	do³³	d o ³³	d o ³³	21
+538	ProtoKaren	21	dəŋ¹¹	d ə ŋ ¹¹	d ə ŋ ¹¹	21
+481	NorthernSgaw	2121	kə¹¹	k ə ¹¹	k ə ¹¹	2121
+482	SouthernPwo	2121	kə¹¹	k ə ¹¹	k ə ¹¹	2121
+483	ProtoKaren	2121	kə⁰	k ə ⁰	k ə ⁰	2121
+129	Kayah	2219	kʰɛ⁵⁵	kʰ ɛ ⁵⁵	kʰ ɛ ⁵⁵	2219
+130	Kayan	2219	kʰauʔ⁴⁵	kʰ au ʔ ⁴⁵	kʰ au ʔ ⁴⁵	2219
+131	Kayaw	2219	kʰo³³	kʰ o ³³	kʰ o ³³	2219
+132	NorthernPao	2219	kʰɔʔ²¹	kʰ ɔ ʔ ²¹	kʰ ɔ ʔ ²¹	2219
+133	NorthernPwo	2219	kʰoʔ⁴⁵	kʰ o ʔ ⁴⁵	kʰ o ʔ ⁴⁵	2219
+134	NorthernSgaw	2219	kʰɔʔ⁴⁵	kʰ ɔ ʔ ⁴⁵	kʰ ɔ ʔ ⁴⁵	2219
+135	SouthernPao	2219	kʰɔʔ²¹	kʰ ɔ ʔ ²¹	kʰ ɔ ʔ ²¹	2219
+136	SouthernPwo	2219	kʰuʔ²¹	kʰ u ʔ ²¹	kʰ u ʔ ²¹	2219
+137	SouthernSgaw	2219	kʰoʔ²¹	kʰ o ʔ ²¹	kʰ o ʔ ²¹	2219
+138	ProtoKaren	2219	kʰɔʔ̚⁵¹	kʰ ɔ ʔ̚ ⁵¹	kʰ ɔ ʔ̚ ⁵¹	2219
+287	Kayah	2294	rɨ³³	r ɨ ³³	r ɨ ³³	2294
+288	Kayan	2294	rwaŋ⁵³	r w a ŋ ⁵³	r w a ŋ ⁵³	2294
+289	Kayaw	2294	ru⁵⁵	r u ⁵⁵	r u ⁵⁵	2294
+290	NorthernPao	2294	rəŋɦ³¹	r ə ŋ ɦ ³¹	r ə ŋ ɦ ³¹	2294
+291	SouthernPao	2294	rwən³¹	r w ə n ³¹	r w ə n ³¹	2294
+292	ProtoKaren	2294	r̥un⁵⁵	r̥ u n ⁵⁵	r̥ u n ⁵⁵	2294
+345	Kayah	2320	jɔ³³	j ɔ ³³	j ɔ ³³	2320
+346	Kayan	2320	jɔʔ²¹	j ɔ ʔ ²¹	j ɔ ʔ ²¹	2320
+347	Kayaw	2320	jə³³	j ə ³³	j ə ³³	2320
+348	NorthernPao	2320	joʔ⁴⁵	j o ʔ ⁴⁵	j o ʔ ⁴⁵	2320
+349	SouthernPao	2320	juʔ⁴⁵	j u ʔ ⁴⁵	j u ʔ ⁴⁵	2320
+350	WesternBwe	2320	jo¹¹	j o ¹¹	j o ¹¹	2320
+351	ProtoKaren	2320	joʔ̚⁵¹	j o ʔ̚ ⁵¹	j o ʔ̚ ⁵¹	2320
+260	Kayah	2328	le³³	l e ³³	l e ³³	2328
+261	Kayan	2328	la⁵³	l a ⁵³	l a ⁵³	2328
+262	Kayaw	2328	la⁵⁵	l a ⁵⁵	l a ⁵⁵	2328
+263	NorthernPao	2328	laɦ³¹	l a ɦ ³¹	l a ɦ ³¹	2328
+264	NorthernPwo	2328	la⁵⁵	l a ⁵⁵	l a ⁵⁵	2328
+265	NorthernSgaw	2328	la³³	l a ³³	l a ³³	2328
+266	SouthernPao	2328	laɦ³¹	l a ɦ ³¹	l a ɦ ³¹	2328
+267	SouthernPwo	2328	laɦ³¹	l a ɦ ³¹	l a ɦ ³¹	2328
+268	SouthernSgaw	2328	la⁵⁵	l a ⁵⁵	l a ⁵⁵	2328
+269	WesternBwe	2328	lɛ⁵⁵	l ɛ ⁵⁵	l ɛ ⁵⁵	2328
+270	ProtoKaren	2328	ˀla⁵⁵	ˀl a ⁵⁵	ˀl a ⁵⁵	2328
+586	NorthernPao	2456	kot⁴⁵	k o t ⁴⁵	k o t ⁴⁵	2456
+587	SouthernPao	2456	kot⁴⁵	k o t ⁴⁵	k o t ⁴⁵	2456
+588	ProtoKaren	2456	kot⁵⁵	k o t ⁵⁵	k o t ⁵⁵	2456
+557	Kayah	2468	ni¹¹	n i ¹¹	n i ¹¹	2468
+558	Kayan	2468	nai¹¹	n ai ¹¹	n ai ¹¹	2468
+559	Kayaw	2468	ni¹¹	n i ¹¹	n i ¹¹	2468
+560	NorthernPao	2468	ne⁵³	n e ⁵³	n e ⁵³	2468
+561	NorthernPwo	2468	niɦ¹¹	n i ɦ ¹¹	n i ɦ ¹¹	2468
+562	NorthernSgaw	2468	neɦ¹¹	n e ɦ ¹¹	n e ɦ ¹¹	2468
+563	SouthernPwo	2468	ni³³	n i ³³	n i ³³	2468
+564	SouthernSgaw	2468	ne³¹	n e ³¹	n e ³¹	2468
+565	WesternBwe	2468	ni³³	n i ³³	n i ³³	2468
+566	ProtoKaren	2468	ne¹¹	n e ¹¹	n e ¹¹	2468
+164	Kayah	2505	tə⁰	t ə ⁰	t ə ⁰	2505
+165	Kayaw	2505	tə⁰	t ə ⁰	t ə ⁰	2505
+166	NorthernPao	2505	taʔ²¹	t a ʔ ²¹	t a ʔ ²¹	2505
+167	NorthernSgaw	2505	tə³³	t ə ³³	t ə ³³	2505
+168	SouthernPao	2505	taʔ²¹	t a ʔ ²¹	t a ʔ ²¹	2505
+169	SouthernSgaw	2505	təʔ²¹	t ə ʔ ²¹	t ə ʔ ²¹	2505
+170	WesternBwe	2505	to⁵⁵	t o ⁵⁵	t o ⁵⁵	2505
+171	ProtoKaren	2505	təʔ̚⁰	t ə ʔ̚ ⁰	t ə ʔ̚ ⁰	2505
+200	Kayan	2506	la¹¹	l a ¹¹	l a ¹¹	2506
+201	NorthernPwo	2506	laʔ²¹	l a ʔ ²¹	l a ʔ ²¹	2506
+202	SouthernPwo	2506	laɦ³¹	l a ɦ ³¹	l a ɦ ³¹	2506
+203	ProtoKaren	2506	laʔ̚³³	l a ʔ̚ ³³	l a ʔ̚ ³³	2506
+10	Kayan	2570	klɛ³³	k l ɛ ³³	k l ɛ ³³	2570
+11	Kayaw	2570	klɛ³³	k l ɛ ³³	k l ɛ ³³	2570
+12	NorthernSgaw	2570	klɛ³³	k l ɛ ³³	k l ɛ ³³	2570
+13	SouthernPao	2570	klai⁵³	k l ai ⁵³	k l ai ⁵³	2570
+14	SouthernSgaw	2570	klɛ³³	k l ɛ ³³	k l ɛ ³³	2570
+15	WesternBwe	2570	klɛ³³	k l ɛ ³³	k l ɛ ³³	2570
+16	ProtoKaren	2570	klɛ⁵⁵	k l ɛ ⁵⁵	k l ɛ ⁵⁵	2570
+250	Kayah	2590	po¹¹	p o ¹¹	p o ¹¹	2590
+251	Kayan	2590	pɔ³³	p ɔ ³³	p ɔ ³³	2590
+252	Kayaw	2590	po³³	p o ³³	p o ³³	2590
+253	NorthernPao	2590	pʰɔŋ³³	pʰ ɔ ŋ ³³	pʰ ɔ ŋ ³³	2590
+254	NorthernPwo	2590	pʰɔ̃⁵⁵	pʰ ɔ̃ ⁵⁵	pʰ ɔ̃ ⁵⁵	2590
+255	NorthernSgaw	2590	po³³	p o ³³	p o ³³	2590
+256	SouthernPao	2590	pɔŋ⁵³	p ɔ ŋ ⁵³	p ɔ ŋ ⁵³	2590
+257	SouthernPwo	2590	pʰõɦ³¹	pʰ õ ɦ ³¹	pʰ õ ɦ ³¹	2590
+258	SouthernSgaw	2590	po³³	p o ³³	p o ³³	2590
+259	ProtoKaren	2590	bɔŋ⁵⁵	b ɔ ŋ ⁵⁵	b ɔ ŋ ⁵⁵	2590
+271	NorthernSgaw	2591	kə¹¹	k ə ¹¹	k ə ¹¹	2591
+272	SouthernSgaw	2591	kəʔ²¹	k ə ʔ ²¹	k ə ʔ ²¹	2591
+273	ProtoKaren	2591	kə⁰	k ə ⁰	k ə ⁰	2591
+109	Kayah	2649	cu³³	c u ³³	c u ³³	2649
+110	Kayan	2649	cu⁵³	c u ⁵³	c u ⁵³	2649
+111	Kayaw	2649	cu⁵⁵	c u ⁵⁵	c u ⁵⁵	2649
+112	NorthernPao	2649	cuɦ³¹	c u ɦ ³¹	c u ɦ ³¹	2649
+113	NorthernPwo	2649	cu⁵⁵	c u ⁵⁵	c u ⁵⁵	2649
+114	NorthernSgaw	2649	cuʔ⁴⁵	c u ʔ ⁴⁵	c u ʔ ⁴⁵	2649
+115	SouthernPao	2649	kjuɦ³¹	k j u ɦ ³¹	k j u ɦ ³¹	2649
+116	SouthernPwo	2649	cuɦ³¹	c u ɦ ³¹	c u ɦ ³¹	2649
+117	SouthernSgaw	2649	cu⁵⁵	c u ⁵⁵	c u ⁵⁵	2649
+118	WesternBwe	2649	cu⁵⁵	c u ⁵⁵	c u ⁵⁵	2649
+119	ProtoKaren	2649	cu⁵⁵	c u ⁵⁵	c u ⁵⁵	2649
+214	Kayah	2744	la³³	l a ³³	l a ³³	2744
+215	Kayan	2744	liʔ²¹	l i ʔ ²¹	l i ʔ ²¹	2744
+216	Kayaw	2744	le³³	l e ³³	l e ³³	2744
+217	NorthernPwo	2744	laiʔ²¹	l ai ʔ ²¹	l ai ʔ ²¹	2744
+218	NorthernSgaw	2744	liʔ²¹	l i ʔ ²¹	l i ʔ ²¹	2744
+219	SouthernPwo	2744	laiʔ⁴⁵	l ai ʔ ⁴⁵	l ai ʔ ⁴⁵	2744
+220	SouthernSgaw	2744	laiɦ¹¹	l ai ɦ ¹¹	l ai ɦ ¹¹	2744
+221	WesternBwe	2744	lɪ¹¹	l ɪ ¹¹	l ɪ ¹¹	2744
+222	ProtoKaren	2744	leʔ̚⁵¹	l e ʔ̚ ⁵¹	l e ʔ̚ ⁵¹	2744
+363	Kayah	2755	sɛ⁵⁵	s ɛ ⁵⁵	s ɛ ⁵⁵	2755
+364	Kayan	2755	θauʔ⁴⁵	θ au ʔ ⁴⁵	θ au ʔ ⁴⁵	2755
+365	Kayaw	2755	so³³	s o ³³	s o ³³	2755
+366	NorthernPao	2755	sɔʔ²¹	s ɔ ʔ ²¹	s ɔ ʔ ²¹	2755
+367	NorthernPwo	2755	soʔ⁴⁵	s o ʔ ⁴⁵	s o ʔ ⁴⁵	2755
+368	NorthernSgaw	2755	sɔʔ⁴⁵	s ɔ ʔ ⁴⁵	s ɔ ʔ ⁴⁵	2755
+369	SouthernPao	2755	sɔʔ²¹	s ɔ ʔ ²¹	s ɔ ʔ ²¹	2755
+370	SouthernPwo	2755	θuʔ²¹	θ u ʔ ²¹	θ u ʔ ²¹	2755
+371	SouthernSgaw	2755	soʔ²¹	s o ʔ ²¹	s o ʔ ²¹	2755
+372	WesternBwe	2755	θɔ³³	θ ɔ ³³	θ ɔ ³³	2755
+373	ProtoKaren	2755	sɔʔ̚⁵¹	s ɔ ʔ̚ ⁵¹	s ɔ ʔ̚ ⁵¹	2755
+617	Kayah	2804	bo¹¹	b o ¹¹	b o ¹¹	2804
+618	Kayan	2804	bəɨ¹¹	b əɨ ¹¹	b əɨ ¹¹	2804
+619	Kayaw	2804	bə¹¹	b ə ¹¹	b ə ¹¹	2804
+620	NorthernSgaw	2804	bɨ³¹	b ɨ ³¹	b ɨ ³¹	2804
+621	SouthernPwo	2804	bɨ⁵⁵	b ɨ ⁵⁵	b ɨ ⁵⁵	2804
+622	SouthernSgaw	2804	bɨ⁴⁵	b ɨ ⁴⁵	b ɨ ⁴⁵	2804
+623	ProtoKaren	2804	ˀbə¹¹	ˀb ə ¹¹	ˀb ə ¹¹	2804
+384	Kayah	2825	bɔ⁵⁵	b ɔ ⁵⁵	b ɔ ⁵⁵	2825
+385	Kayan	2825	bɔʔ⁴⁵	b ɔ ʔ ⁴⁵	b ɔ ʔ ⁴⁵	2825
+386	Kayaw	2825	bə³³	b ə ³³	b ə ³³	2825
+387	NorthernPao	2825	boʔ²¹	b o ʔ ²¹	b o ʔ ²¹	2825
+388	NorthernPwo	2825	bauʔ⁴⁵	b au ʔ ⁴⁵	b au ʔ ⁴⁵	2825
+389	NorthernSgaw	2825	buʔ⁴⁵	b u ʔ ⁴⁵	b u ʔ ⁴⁵	2825
+390	SouthernPao	2825	buʔ²¹	b u ʔ ²¹	b u ʔ ²¹	2825
+391	SouthernPwo	2825	bɔuʔ³¹	b ɔu ʔ ³¹	b ɔu ʔ ³¹	2825
+392	SouthernSgaw	2825	bɔuʔ²¹	b ɔu ʔ ²¹	b ɔu ʔ ²¹	2825
+393	ProtoKaren	2825	ˀboʔ̚⁵¹	ˀb o ʔ̚ ⁵¹	ˀb o ʔ̚ ⁵¹	2825
+190	Kayah	288	swi¹¹	s w i ¹¹	s w i ¹¹	288
+191	Kayan	288	θwi¹¹	θ w i ¹¹	θ w i ¹¹	288
+192	NorthernPao	288	swi⁵⁵	s w i ⁵⁵	s w i ⁵⁵	288
+193	NorthernPwo	288	swi³³	s w i ³³	s w i ³³	288
+194	NorthernSgaw	288	swi³¹	s w i ³¹	s w i ³¹	288
+195	SouthernPao	288	swi³³	s w i ³³	s w i ³³	288
+196	SouthernPwo	288	θwi⁵⁵	θ w i ⁵⁵	θ w i ⁵⁵	288
+197	SouthernSgaw	288	swi⁴⁵	s w i ⁴⁵	s w i ⁴⁵	288
+198	WesternBwe	288	θwi³³	θ w i ³³	θ w i ³³	288
+199	ProtoKaren	288	swi¹¹	s w i ¹¹	s w i ¹¹	288
+600	Kayah	2910	se¹¹	s e ¹¹	s e ¹¹	2910
+601	Kayan	2910	θa¹¹	θ a ¹¹	θ a ¹¹	2910
+602	Kayaw	2910	sa¹¹	s a ¹¹	s a ¹¹	2910
+603	NorthernPao	2910	sa⁵⁵	s a ⁵⁵	s a ⁵⁵	2910
+604	NorthernSgaw	2910	sa³¹	s a ³¹	s a ³¹	2910
+605	SouthernPao	2910	sa³³	s a ³³	s a ³³	2910
+606	SouthernSgaw	2910	sa⁴⁵	s a ⁴⁵	s a ⁴⁵	2910
+607	WesternBwe	2910	θɛ³³	θ ɛ ³³	θ ɛ ³³	2910
+608	ProtoKaren	2910	sa¹¹	s a ¹¹	s a ¹¹	2910
+223	Kayah	2999	tʰɛ³³	tʰ ɛ ³³	tʰ ɛ ³³	2999
+224	Kayaw	2999	tʰɔ⁵⁵	tʰ ɔ ⁵⁵	tʰ ɔ ⁵⁵	2999
+225	NorthernPao	2999	tʰaŋɦ³¹	tʰ a ŋ ɦ ³¹	tʰ a ŋ ɦ ³¹	2999
+226	SouthernPao	2999	tʰaŋɦ³¹	tʰ a ŋ ɦ ³¹	tʰ a ŋ ɦ ³¹	2999
+227	WesternBwe	2999	tʰa⁵⁵	tʰ a ⁵⁵	tʰ a ⁵⁵	2999
+228	ProtoKaren	2999	tʰaŋ⁵⁵	tʰ a ŋ ⁵⁵	tʰ a ŋ ⁵⁵	2999
+472	Kayan	3006	θau³³	θ au ³³	θ au ³³	3006
+473	Kayaw	3006	su⁵⁵	s u ⁵⁵	s u ⁵⁵	3006
+474	NorthernPao	3006	so⁵⁵	s o ⁵⁵	s o ⁵⁵	3006
+475	NorthernSgaw	3006	so³³	s o ³³	s o ³³	3006
+476	SouthernPao	3006	so³³	s o ³³	s o ³³	3006
+477	SouthernPwo	3006	θu⁵⁵	θ u ⁵⁵	θ u ⁵⁵	3006
+478	SouthernSgaw	3006	su⁵⁵	s u ⁵⁵	s u ⁵⁵	3006
+479	WesternBwe	3006	θo⁵⁵	θ o ⁵⁵	θ o ⁵⁵	3006
+480	ProtoKaren	3006	so⁵⁵	s o ⁵⁵	s o ⁵⁵	3006
+495	Kayah	302	ʔu³³	ʔ u ³³	ʔ u ³³	302
+496	Kayan	302	ʔu⁵³	ʔ u ⁵³	ʔ u ⁵³	302
+497	Kayaw	302	ʔu⁵⁵	ʔ u ⁵⁵	ʔ u ⁵⁵	302
+498	NorthernPao	302	ʔuɦ³¹	ʔ u ɦ ³¹	ʔ u ɦ ³¹	302
+499	NorthernPwo	302	ʔu⁵⁵	ʔ u ⁵⁵	ʔ u ⁵⁵	302
+500	NorthernSgaw	302	ʔu³³	ʔ u ³³	ʔ u ³³	302
+501	SouthernPao	302	ʔuɦ³¹	ʔ u ɦ ³¹	ʔ u ɦ ³¹	302
+502	SouthernPwo	302	ʔuɦ³¹	ʔ u ɦ ³¹	ʔ u ɦ ³¹	302
+503	SouthernSgaw	302	ʔu⁵⁵	ʔ u ⁵⁵	ʔ u ⁵⁵	302
+504	WesternBwe	302	u³³	u ³³	u ³³	302
+505	ProtoKaren	302	ʔu⁵⁵	ʔ u ⁵⁵	ʔ u ⁵⁵	302
+374	Kayan	3125	nɨ³³	n ɨ ³³	n ɨ ³³	3125
+375	Kayaw	3125	nɨ³³	n ɨ ³³	n ɨ ³³	3125
+376	NorthernPao	3125	num³³	n u m ³³	n u m ³³	3125
+377	NorthernPwo	3125	nɑ̃³⁵	n ɑ̃ ³⁵	n ɑ̃ ³⁵	3125
+378	NorthernSgaw	3125	nə³³	n ə ³³	n ə ³³	3125
+379	SouthernPao	3125	nwəm⁵³	n w ə m ⁵³	n w ə m ⁵³	3125
+380	SouthernPwo	3125	nə̤̃ɨ⁵³	n ə̤̃ɨ ⁵³	n ə̤̃ɨ ⁵³	3125
+381	SouthernSgaw	3125	nɨ⁵⁵	n ɨ ⁵⁵	n ɨ ⁵⁵	3125
+382	WesternBwe	3125	nu⁵⁵	n u ⁵⁵	n u ⁵⁵	3125
+383	ProtoKaren	3125	nɨm⁵⁵	n ɨ m ⁵⁵	n ɨ m ⁵⁵	3125
+307	Kayah	3154	ro¹¹	r o ¹¹	r o ¹¹	3154
+308	Kayan	3154	ru¹¹	r u ¹¹	r u ¹¹	3154
+309	Kayaw	3154	ru¹¹	r u ¹¹	r u ¹¹	3154
+310	NorthernPao	3154	ru⁵³	r u ⁵³	r u ⁵³	3154
+311	NorthernPwo	3154	ɣouɦ¹¹	ɣ ou ɦ ¹¹	ɣ ou ɦ ¹¹	3154
+312	NorthernSgaw	3154	ɣɨɦ¹¹	ɣ ɨ ɦ ¹¹	ɣ ɨ ɦ ¹¹	3154
+313	SouthernPao	3154	ru⁵⁵	r u ⁵⁵	r u ⁵⁵	3154
+314	SouthernPwo	3154	βou³³	β ou ³³	β ou ³³	3154
+315	SouthernSgaw	3154	ɣɨ³¹	ɣ ɨ ³¹	ɣ ɨ ³¹	3154
+316	WesternBwe	3154	ʀu³³	ʀ u ³³	ʀ u ³³	3154
+317	ProtoKaren	3154	rou¹¹	r ou ¹¹	r ou ¹¹	3154
+229	Kayah	3179	cʰɛ¹¹	cʰ ɛ ¹¹	cʰ ɛ ¹¹	3179
+230	Kayan	3179	ɕaŋ¹¹	ɕ a ŋ ¹¹	ɕ a ŋ ¹¹	3179
+231	Kayaw	3179	ɕɔ¹¹	ɕ ɔ ¹¹	ɕ ɔ ¹¹	3179
+232	NorthernPao	3179	ɕjan⁵⁵	ɕ j a n ⁵⁵	ɕ j a n ⁵⁵	3179
+233	NorthernPwo	3179	cʰɛ̃³³	cʰ ɛ̃ ³³	cʰ ɛ̃ ³³	3179
+234	NorthernSgaw	3179	cʰɔ³¹	cʰ ɔ ³¹	cʰ ɔ ³¹	3179
+235	SouthernPao	3179	ɕjan³³	ɕ j a n ³³	ɕ j a n ³³	3179
+236	SouthernPwo	3179	cʰɔ̃⁵⁵	cʰ ɔ̃ ⁵⁵	cʰ ɔ̃ ⁵⁵	3179
+237	SouthernSgaw	3179	cʰɔ⁴⁵	cʰ ɔ ⁴⁵	cʰ ɔ ⁴⁵	3179
+238	WesternBwe	3179	ʃa³³	ʃ a ³³	ʃ a ³³	3179
+239	ProtoKaren	3179	cʰjaɴ¹¹	cʰ j a ɴ ¹¹	cʰ j a ɴ ¹¹	3179
+326	Kayan	3192	kaŋ³³	k a ŋ ³³	k a ŋ ³³	3192
+327	Kayaw	3192	kɔ³³	k ɔ ³³	k ɔ ³³	3192
+328	NorthernPao	3192	kʰaŋ³³	kʰ a ŋ ³³	kʰ a ŋ ³³	3192
+329	NorthernPwo	3192	kʰɛ̃⁵⁵	kʰ ɛ̃ ⁵⁵	kʰ ɛ̃ ⁵⁵	3192
+330	SouthernPao	3192	kaŋ⁵³	k a ŋ ⁵³	k a ŋ ⁵³	3192
+331	SouthernPwo	3192	kʰɔ̃ɦ³¹	kʰ ɔ̃ ɦ ³¹	kʰ ɔ̃ ɦ ³¹	3192
+332	WesternBwe	3192	ga¹¹	g a ¹¹	g a ¹¹	3192
+333	ProtoKaren	3192	gaŋ⁵⁵	g a ŋ ⁵⁵	g a ŋ ⁵⁵	3192
+139	Kayah	3205	tʰu³³	tʰ u ³³	tʰ u ³³	3205
+140	Kayan	3205	tʰu⁵³	tʰ u ⁵³	tʰ u ⁵³	3205
+141	NorthernPwo	3205	tʰu³⁵	tʰ u ³⁵	tʰ u ³⁵	3205
+142	NorthernSgaw	3205	tʰuʔ⁴⁵	tʰ u ʔ ⁴⁵	tʰ u ʔ ⁴⁵	3205
+143	SouthernPao	3205	tʰuɦ³¹	tʰ u ɦ ³¹	tʰ u ɦ ³¹	3205
+144	SouthernPwo	3205	tʰu⁵³	tʰ u ⁵³	tʰ u ⁵³	3205
+145	SouthernSgaw	3205	tʰu⁵⁵	tʰ u ⁵⁵	tʰ u ⁵⁵	3205
+146	ProtoKaren	3205	tʰu⁵⁵	tʰ u ⁵⁵	tʰ u ⁵⁵	3205
+433	NorthernPao	3271	li⁵⁵	l i ⁵⁵	l i ⁵⁵	3271
+434	NorthernPwo	3271	lei³³	l ei ³³	l ei ³³	3271
+435	NorthernSgaw	3271	liʔ⁴⁵	l i ʔ ⁴⁵	l i ʔ ⁴⁵	3271
+436	SouthernPao	3271	li³³	l i ³³	l i ³³	3271
+437	SouthernPwo	3271	lei⁵⁵	l ei ⁵⁵	l ei ⁵⁵	3271
+438	SouthernSgaw	3271	li⁴⁵	l i ⁴⁵	l i ⁴⁵	3271
+439	WesternBwe	3271	li¹¹	l i ¹¹	l i ¹¹	3271
+440	ProtoKaren	3271	l̥i¹¹	l̥ i ¹¹	l̥ i ¹¹	3271
+98	Kayah	3295	cʰe¹¹	cʰ e ¹¹	cʰ e ¹¹	3295
+99	Kayan	3295	cʰa¹¹	cʰ a ¹¹	cʰ a ¹¹	3295
+100	Kayaw	3295	cʰa¹¹	cʰ a ¹¹	cʰ a ¹¹	3295
+101	NorthernPao	3295	cʰa⁵⁵	cʰ a ⁵⁵	cʰ a ⁵⁵	3295
+102	NorthernPwo	3295	sja³³	s j a ³³	s j a ³³	3295
+103	NorthernSgaw	3295	cʰa³¹	cʰ a ³¹	cʰ a ³¹	3295
+104	SouthernPao	3295	cʰa³³	cʰ a ³³	cʰ a ³³	3295
+105	SouthernPwo	3295	ɕa⁵⁵	ɕ a ⁵⁵	ɕ a ⁵⁵	3295
+106	SouthernSgaw	3295	cʰa⁴⁵	cʰ a ⁴⁵	cʰ a ⁴⁵	3295
+107	WesternBwe	3295	ʃɛ³³	ʃ ɛ ³³	ʃ ɛ ³³	3295
+108	ProtoKaren	3295	cʰa¹¹	cʰ a ¹¹	cʰ a ¹¹	3295
+304	NorthernSgaw	3325	kə¹¹	k ə ¹¹	k ə ¹¹	3325
+305	WesternBwe	3325	gə¹¹	g ə ¹¹	g ə ¹¹	3325
+306	ProtoKaren	3325	gə⁰	g ə ⁰	g ə ⁰	3325
+589	Kayah	3351	plə¹¹	p l ə ¹¹	p l ə ¹¹	3351
+590	Kayan	3351	plɨ³³	p l ɨ ³³	p l ɨ ³³	3351
+591	Kayaw	3351	pli³³	p l i ³³	p l i ³³	3351
+592	NorthernPao	3351	pʰli³³	pʰ l i ³³	pʰ l i ³³	3351
+593	NorthernPwo	3351	pʰlei⁵⁵	pʰ l ei ⁵⁵	pʰ l ei ⁵⁵	3351
+594	NorthernSgaw	3351	pli³³	p l i ³³	p l i ³³	3351
+595	SouthernPao	3351	pli⁵³	p l i ⁵³	p l i ⁵³	3351
+596	SouthernPwo	3351	pʰleiɦ³¹	pʰ l ei ɦ ³¹	pʰ l ei ɦ ³¹	3351
+597	SouthernSgaw	3351	pli³³	p l i ³³	p l i ³³	3351
+598	WesternBwe	3351	bli³³	b l i ³³	b l i ³³	3351
+599	ProtoKaren	3351	blei⁵⁵	b l ei ⁵⁵	b l ei ⁵⁵	3351
+38	Kayah	336	kʰlə³³	kʰ l ə ³³	kʰ l ə ³³	336
+39	Kayaw	336	kʰli⁵⁵	kʰ l i ⁵⁵	kʰ l i ⁵⁵	336
+40	NorthernPao	336	kʰliɦ³¹	kʰ l i ɦ ³¹	kʰ l i ɦ ³¹	336
+41	NorthernPwo	336	kʰlei³⁵	kʰ l ei ³⁵	kʰ l ei ³⁵	336
+42	NorthernSgaw	336	kʰli³³	kʰ l i ³³	kʰ l i ³³	336
+43	SouthernPao	336	kʰliɦ³¹	kʰ l i ɦ ³¹	kʰ l i ɦ ³¹	336
+44	SouthernPwo	336	kʰlei⁵³	kʰ l ei ⁵³	kʰ l ei ⁵³	336
+45	SouthernSgaw	336	kʰli⁵⁵	kʰ l i ⁵⁵	kʰ l i ⁵⁵	336
+46	WesternBwe	336	kʰli³³	kʰ l i ³³	kʰ l i ³³	336
+47	ProtoKaren	336	kʰlei⁵⁵	kʰ l ei ⁵⁵	kʰ l ei ⁵⁵	336
+609	Kayah	3364	cwi⁵⁵	c w i ⁵⁵	c w i ⁵⁵	3364
+610	Kayan	3364	cwiʔ⁴⁵	c w i ʔ ⁴⁵	c w i ʔ ⁴⁵	3364
+611	Kayaw	3364	ci³³	c i ³³	c i ³³	3364
+612	NorthernPao	3364	cuk²¹	c u k ²¹	c u k ²¹	3364
+613	NorthernSgaw	3364	wiʔ⁴⁵	w i ʔ ⁴⁵	w i ʔ ⁴⁵	3364
+614	SouthernPao	3364	cuʔ²¹	c u ʔ ²¹	c u ʔ ²¹	3364
+615	SouthernPwo	3364	waiʔ³¹	w ai ʔ ³¹	w ai ʔ ³¹	3364
+616	ProtoKaren	3364	cwik̚⁵¹	c w i k̚ ⁵¹	c w i k̚ ⁵¹	3364
+147	Kayah	3466	pu⁵⁵	p u ⁵⁵	p u ⁵⁵	3466
+148	Kayan	3466	paʔ²¹	p a ʔ ²¹	p a ʔ ²¹	3466
+149	NorthernPao	3466	pʰi⁵⁵	pʰ i ⁵⁵	pʰ i ⁵⁵	3466
+150	NorthernPwo	3466	pʰaʔ²¹	pʰ a ʔ ²¹	pʰ a ʔ ²¹	3466
+151	NorthernSgaw	3466	pə¹¹	p ə ¹¹	p ə ¹¹	3466
+152	SouthernPao	3466	pi³³	p i ³³	p i ³³	3466
+153	SouthernPwo	3466	pʰu³³	pʰ u ³³	pʰ u ³³	3466
+154	SouthernSgaw	3466	pə¹¹	p ə ¹¹	p ə ¹¹	3466
+155	ProtoKaren	3466	bəʔ̚⁰	b ə ʔ̚ ⁰	b ə ʔ̚ ⁰	3466
+172	Kayah	3607	kʰi³³	kʰ i ³³	kʰ i ³³	3607
+173	Kayan	3607	kʰi⁵³	kʰ i ⁵³	kʰ i ⁵³	3607
+174	Kayaw	3607	kʰi⁵⁵	kʰ i ⁵⁵	kʰ i ⁵⁵	3607
+175	NorthernPao	3607	kʰiŋ⁵⁵	kʰ i ŋ ⁵⁵	kʰ i ŋ ⁵⁵	3607
+176	NorthernPwo	3607	kʰãi³⁵	kʰ ãi ³⁵	kʰ ãi ³⁵	3607
+177	NorthernSgaw	3607	kʰi³³	kʰ i ³³	kʰ i ³³	3607
+178	SouthernPao	3607	kʰiŋ³³	kʰ i ŋ ³³	kʰ i ŋ ³³	3607
+179	SouthernPwo	3607	kʰɛ̃i⁵³	kʰ ɛ̃i ⁵³	kʰ ɛ̃i ⁵³	3607
+180	ProtoKaren	3607	kʰiŋ⁵⁵	kʰ i ŋ ⁵⁵	kʰ i ŋ ⁵⁵	3607
+539	Kayah	3680	kʰli⁵⁵	kʰ l i ⁵⁵	kʰ l i ⁵⁵	3680
+540	Kayan	3680	kʰlɨʔ⁴⁵	kʰ l ɨ ʔ ⁴⁵	kʰ l ɨ ʔ ⁴⁵	3680
+541	Kayaw	3680	kʰli³³	kʰ l i ³³	kʰ l i ³³	3680
+542	NorthernPao	3680	kʰleʔ²¹	kʰ l e ʔ ²¹	kʰ l e ʔ ²¹	3680
+543	NorthernPwo	3680	kʰlaiʔ⁴⁵	kʰ l ai ʔ ⁴⁵	kʰ l ai ʔ ⁴⁵	3680
+544	NorthernSgaw	3680	kʰliʔ⁴⁵	kʰ l i ʔ ⁴⁵	kʰ l i ʔ ⁴⁵	3680
+545	SouthernPao	3680	kʰliʔ²¹	kʰ l i ʔ ²¹	kʰ l i ʔ ²¹	3680
+546	SouthernPwo	3680	kʰlaiʔ³¹	kʰ l ai ʔ ³¹	kʰ l ai ʔ ³¹	3680
+547	SouthernSgaw	3680	kʰlaiʔ²¹	kʰ l ai ʔ ²¹	kʰ l ai ʔ ²¹	3680
+548	WesternBwe	3680	kʰli³³	kʰ l i ³³	kʰ l i ³³	3680
+549	ProtoKaren	3680	kʰliʔ̚⁵¹	kʰ l i ʔ̚ ⁵¹	kʰ l i ʔ̚ ⁵¹	3680
+403	Kayah	3693	je¹¹	j e ¹¹	j e ¹¹	3693
+404	Kayan	3693	ɟaŋ¹¹	ɟ a ŋ ¹¹	ɟ a ŋ ¹¹	3693
+405	NorthernPao	3693	jam⁵³	j a m ⁵³	j a m ⁵³	3693
+406	NorthernPwo	3693	jãɦ¹¹	j ã ɦ ¹¹	j ã ɦ ¹¹	3693
+407	NorthernSgaw	3693	jɔ̃ɦ¹¹	j ɔ̃ ɦ ¹¹	j ɔ̃ ɦ ¹¹	3693
+408	SouthernPao	3693	jam⁵⁵	j a m ⁵⁵	j a m ⁵⁵	3693
+409	SouthernPwo	3693	jɔ̃³³	j ɔ̃ ³³	j ɔ̃ ³³	3693
+410	SouthernSgaw	3693	jɔ³¹	j ɔ ³¹	j ɔ ³¹	3693
+411	WesternBwe	3693	jɛ³³	j ɛ ³³	j ɛ ³³	3693
+412	ProtoKaren	3693	jam¹¹	j a m ¹¹	j a m ¹¹	3693
+520	Kayah	3704	mɔ¹¹	m ɔ ¹¹	m ɔ ¹¹	3704
+521	Kayan	3704	mə¹¹	m ə ¹¹	m ə ¹¹	3704
+522	Kayaw	3704	mə¹¹	m ə ¹¹	m ə ¹¹	3704
+523	NorthernPao	3704	mɨŋ⁵³	m ɨ ŋ ⁵³	m ɨ ŋ ⁵³	3704
+524	NorthernPwo	3704	mɑ̃ɦ¹¹	m ɑ̃ ɦ ¹¹	m ɑ̃ ɦ ¹¹	3704
+525	NorthernSgaw	3704	mɨɦ¹¹	m ɨ ɦ ¹¹	m ɨ ɦ ¹¹	3704
+526	SouthernPao	3704	məŋ⁵⁵	m ə ŋ ⁵⁵	m ə ŋ ⁵⁵	3704
+527	ProtoKaren	3704	məŋ¹¹	m ə ŋ ¹¹	m ə ŋ ¹¹	3704
+441	Kayah	3726	nə³³	n ə ³³	n ə ³³	3726
+442	Kayan	3726	ŋɨ⁵³	ŋ ɨ ⁵³	ŋ ɨ ⁵³	3726
+443	NorthernPao	3726	niɦ³¹	n i ɦ ³¹	n i ɦ ³¹	3726
+444	SouthernPao	3726	niɦ³¹	n i ɦ ³¹	n i ɦ ³¹	3726
+445	SouthernPwo	3726	nei⁵³	n ei ⁵³	n ei ⁵³	3726
+446	ProtoKaren	3726	n̥ei⁵⁵	n̥ ei ⁵⁵	n̥ ei ⁵⁵	3726
+447	Kayah	3850	ple¹¹	p l e ¹¹	p l e ¹¹	3850
+448	Kayan	3850	pla¹¹	p l a ¹¹	p l a ¹¹	3850
+449	Kayaw	3850	pla¹¹	p l a ¹¹	p l a ¹¹	3850
+450	NorthernPao	3850	pʰla⁵³	pʰ l a ⁵³	pʰ l a ⁵³	3850
+451	NorthernPwo	3850	pʰlaɦ¹¹	pʰ l a ɦ ¹¹	pʰ l a ɦ ¹¹	3850
+452	NorthernSgaw	3850	plaɦ¹¹	p l a ɦ ¹¹	p l a ɦ ¹¹	3850
+453	SouthernPao	3850	pla⁵⁵	p l a ⁵⁵	p l a ⁵⁵	3850
+454	SouthernPwo	3850	pʰla³³	pʰ l a ³³	pʰ l a ³³	3850
+455	SouthernSgaw	3850	pla³¹	p l a ³¹	p l a ³¹	3850
+456	WesternBwe	3850	blɛ³³	b l ɛ ³³	b l ɛ ³³	3850
+457	ProtoKaren	3850	bla¹¹	b l a ¹¹	b l a ¹¹	3850
+624	Kayah	3938	co¹¹	c o ¹¹	c o ¹¹	3938
+625	Kayan	3938	cau¹¹	c au ¹¹	c au ¹¹	3938
+626	Kayaw	3938	co¹¹	c o ¹¹	c o ¹¹	3938
+627	NorthernPao	3938	cau⁵⁵	c au ⁵⁵	c au ⁵⁵	3938
+628	NorthernPwo	3938	cɔ³³	c ɔ ³³	c ɔ ³³	3938
+629	NorthernSgaw	3938	cɔ³¹	c ɔ ³¹	c ɔ ³¹	3938
+630	SouthernPao	3938	cau³³	c au ³³	c au ³³	3938
+631	SouthernPwo	3938	co⁵⁵	c o ⁵⁵	c o ⁵⁵	3938
+632	SouthernSgaw	3938	cɔ⁴⁵	c ɔ ⁴⁵	c ɔ ⁴⁵	3938
+633	WesternBwe	3938	cɔ³³	c ɔ ³³	c ɔ ³³	3938
+634	ProtoKaren	3938	cɔ¹¹	c ɔ ¹¹	c ɔ ¹¹	3938
+181	Kayah	4002	nɨ¹¹	n ɨ ¹¹	n ɨ ¹¹	4002
+182	Kayan	4002	nɨ³³	n ɨ ³³	n ɨ ³³	4002
+183	NorthernPao	4002	nəŋ³³	n ə ŋ ³³	n ə ŋ ³³	4002
+184	NorthernPwo	4002	nɑ̃⁵⁵	n ɑ̃ ⁵⁵	n ɑ̃ ⁵⁵	4002
+185	NorthernSgaw	4002	nə³³	n ə ³³	n ə ³³	4002
+186	SouthernPao	4002	nəŋ⁵³	n ə ŋ ⁵³	n ə ŋ ⁵³	4002
+187	SouthernPwo	4002	nə̃ɨɦ³¹	n ə̃ɨ ɦ ³¹	n ə̃ɨ ɦ ³¹	4002
+188	SouthernSgaw	4002	nɨ³³	n ɨ ³³	n ɨ ³³	4002
+189	ProtoKaren	4002	nɨŋ⁵⁵	n ɨ ŋ ⁵⁵	n ɨ ŋ ⁵⁵	4002
+274	Kayaw	4025	ma¹¹	m a ¹¹	m a ¹¹	4025
+275	NorthernPao	4025	ma⁵⁵	m a ⁵⁵	m a ⁵⁵	4025
+276	NorthernSgaw	4025	ma³¹	m a ³¹	m a ³¹	4025
+277	SouthernPao	4025	ma³³	m a ³³	m a ³³	4025
+278	SouthernPwo	4025	ma⁵⁵	m a ⁵⁵	m a ⁵⁵	4025
+279	SouthernSgaw	4025	ma⁴⁵	m a ⁴⁵	m a ⁴⁵	4025
+280	WesternBwe	4025	mɛ³³	m ɛ ³³	m ɛ ³³	4025
+281	ProtoKaren	4025	m̥a¹¹	m̥ a ¹¹	m̥ a ¹¹	4025
+120	Kayah	420	nu¹¹	n u ¹¹	n u ¹¹	420
+121	Kayan	420	nu¹¹	n u ¹¹	n u ¹¹	420
+122	Kayaw	420	nu¹¹	n u ¹¹	n u ¹¹	420
+123	NorthernPwo	420	nuɦ¹¹	n u ɦ ¹¹	n u ɦ ¹¹	420
+124	NorthernSgaw	420	nuɦ¹¹	n u ɦ ¹¹	n u ɦ ¹¹	420
+125	SouthernPwo	420	nu³³	n u ³³	n u ³³	420
+126	SouthernSgaw	420	nu³¹	n u ³¹	n u ³¹	420
+127	WesternBwe	420	nu³³	n u ³³	n u ³³	420
+128	ProtoKaren	420	nu¹¹	n u ¹¹	n u ¹¹	420
+293	Kayah	603	kʰe¹¹	kʰ e ¹¹	kʰ e ¹¹	603
+294	Kayan	603	kʰa¹¹	kʰ a ¹¹	kʰ a ¹¹	603
+295	Kayaw	603	kʰa¹¹	kʰ a ¹¹	kʰ a ¹¹	603
+296	NorthernPao	603	kʰa⁵⁵	kʰ a ⁵⁵	kʰ a ⁵⁵	603
+297	NorthernPwo	603	kʰa³³	kʰ a ³³	kʰ a ³³	603
+298	NorthernSgaw	603	kʰa³¹	kʰ a ³¹	kʰ a ³¹	603
+299	SouthernPao	603	kʰa³³	kʰ a ³³	kʰ a ³³	603
+300	SouthernPwo	603	kʰa⁵⁵	kʰ a ⁵⁵	kʰ a ⁵⁵	603
+301	SouthernSgaw	603	kʰa⁴⁵	kʰ a ⁴⁵	kʰ a ⁴⁵	603
+302	WesternBwe	603	kʰɛ³³	kʰ ɛ ³³	kʰ ɛ ³³	603
+303	ProtoKaren	603	kʰa¹¹	kʰ a ¹¹	kʰ a ¹¹	603
+318	Kayah	656	plɔ¹¹	p l ɔ ¹¹	p l ɔ ¹¹	656
+319	Kayaw	656	plo¹¹	p l o ¹¹	p l o ¹¹	656
+320	NorthernPao	656	plɔŋ⁵⁵	p l ɔ ŋ ⁵⁵	p l ɔ ŋ ⁵⁵	656
+321	NorthernPwo	656	pʰlɔ̃³³	pʰ l ɔ̃ ³³	pʰ l ɔ̃ ³³	656
+322	NorthernSgaw	656	blõ³¹	b l õ ³¹	b l õ ³¹	656
+323	SouthernPwo	656	pʰlõ⁵⁵	pʰ l õ ⁵⁵	pʰ l õ ⁵⁵	656
+324	SouthernSgaw	656	blu⁴⁵	b l u ⁴⁵	b l u ⁴⁵	656
+325	ProtoKaren	656	plɔŋ¹¹	p l ɔ ŋ ¹¹	p l ɔ ŋ ¹¹	656
+468	NorthernPwo	7	su³⁵	s u ³⁵	s u ³⁵	7
+469	NorthernSgaw	7	su³³	s u ³³	s u ³³	7
+470	SouthernSgaw	7	su⁵⁵	s u ⁵⁵	s u ⁵⁵	7
+471	ProtoKaren	7	su⁵⁵	s u ⁵⁵	s u ⁵⁵	7
+513	Kayan	716	bi¹¹	b i ¹¹	b i ¹¹	716
+514	Kayaw	716	bi¹¹	b i ¹¹	b i ¹¹	716
+515	NorthernPwo	716	bei³³	b ei ³³	b ei ³³	716
+516	NorthernSgaw	716	bĩ³¹	b ĩ ³¹	b ĩ ³¹	716
+517	SouthernPwo	716	bei⁵⁵	b ei ⁵⁵	b ei ⁵⁵	716
+518	SouthernSgaw	716	bi⁴⁵	b i ⁴⁵	b i ⁴⁵	716
+519	ProtoKaren	716	ˀbi¹¹	ˀb i ¹¹	ˀb i ¹¹	716
+204	Kayan	906	sə³³	s ə ³³	s ə ³³	906
+205	Kayaw	906	si⁵⁵	s i ⁵⁵	s i ⁵⁵	906
+206	NorthernPao	906	siɦ³¹	s i ɦ ³¹	s i ɦ ³¹	906
+207	NorthernPwo	906	sei³⁵	s ei ³⁵	s ei ³⁵	906
+208	NorthernSgaw	906	si³³	s i ³³	s i ³³	906
+209	SouthernPao	906	siɦ³¹	s i ɦ ³¹	s i ɦ ³¹	906
+210	SouthernPwo	906	θei⁵³	θ ei ⁵³	θ ei ⁵³	906
+211	SouthernSgaw	906	si⁵⁵	s i ⁵⁵	s i ⁵⁵	906
+212	WesternBwe	906	θɨ⁵⁵	θ ɨ ⁵⁵	θ ɨ ⁵⁵	906
+213	ProtoKaren	906	sei⁵⁵	s ei ⁵⁵	s ei ⁵⁵	906
+28	Kayah	91	we¹¹	w e ¹¹	w e ¹¹	91
+29	Kayan	91	hwa¹¹	h w a ¹¹	h w a ¹¹	91
+30	NorthernPao	91	wa⁵⁵	w a ⁵⁵	w a ⁵⁵	91
+31	NorthernPwo	91	wa³³	w a ³³	w a ³³	91
+32	NorthernSgaw	91	wa³¹	w a ³¹	w a ³¹	91
+33	SouthernPao	91	wa³³	w a ³³	w a ³³	91
+34	SouthernPwo	91	wa⁵⁵	w a ⁵⁵	w a ⁵⁵	91
+35	SouthernSgaw	91	wa⁴⁵	w a ⁴⁵	w a ⁴⁵	91
+36	WesternBwe	91	hɛ³³	h ɛ ³³	h ɛ ³³	91
+37	ProtoKaren	91	hwa¹¹	h w a ¹¹	h w a ¹¹	91
+48	Kayah	969	wi¹¹	w i ¹¹	w i ¹¹	969
+49	Kayan	969	ʔwi¹¹	ʔ w i ¹¹	ʔ w i ¹¹	969
+50	Kayaw	969	wi¹¹	w i ¹¹	w i ¹¹	969
+51	NorthernPao	969	ʔwi⁵⁵	ʔ w i ⁵⁵	ʔ w i ⁵⁵	969
+52	NorthernPwo	969	ʔwi³³	ʔ w i ³³	ʔ w i ³³	969
+53	NorthernSgaw	969	kwi²¹	k w i ²¹	k w i ²¹	969
+54	SouthernPao	969	ʔwi³³	ʔ w i ³³	ʔ w i ³³	969
+55	SouthernPwo	969	ʔwi⁵⁵	ʔ w i ⁵⁵	ʔ w i ⁵⁵	969
+56	ProtoKaren	969	ʔwi¹¹	ʔ w i ¹¹	ʔ w i ¹¹	969
+334	Kayah	979	lɛ¹¹	l ɛ ¹¹	l ɛ ¹¹	979
+335	Kayan	979	laŋ³³	l a ŋ ³³	l a ŋ ³³	979
+336	Kayaw	979	lɔ³³	l ɔ ³³	l ɔ ³³	979
+337	NorthernPao	979	laŋ³³	l a ŋ ³³	l a ŋ ³³	979
+338	NorthernPwo	979	lɛ̃⁵⁵	l ɛ̃ ⁵⁵	l ɛ̃ ⁵⁵	979
+339	NorthernSgaw	979	lɔ̃³³	l ɔ̃ ³³	l ɔ̃ ³³	979
+340	SouthernPao	979	laŋ⁵³	l a ŋ ⁵³	l a ŋ ⁵³	979
+341	SouthernPwo	979	lɔ̃ɦ³¹	l ɔ̃ ɦ ³¹	l ɔ̃ ɦ ³¹	979
+342	SouthernSgaw	979	lɔ³³	l ɔ ³³	l ɔ ³³	979
+343	WesternBwe	979	la³³	l a ³³	l a ³³	979
+344	ProtoKaren	979	laŋ⁵⁵	l a ŋ ⁵⁵	l a ŋ ⁵⁵	979
